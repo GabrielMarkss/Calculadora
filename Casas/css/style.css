@@ -1,0 +1,30 @@
+.calculadora1 {
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    width: 190px;
+}
+.calculadora2 {
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    width: 50px;
+}
+.calculadora3 {
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    width: 180px;
+    
+}
+.operadores, .operadores1 {
+    border: 3px solid black;
+    border-radius: 100%;
+    margin-left: 130px;
+    width: 40px;
+    margin-top: 10px;
+}
+.operadores1 {
+    margin-left: 10px;
+    
+}
+#calc {
+    margin-top: 20px;
+}
